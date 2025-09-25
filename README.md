@@ -3,7 +3,7 @@
 ---------------------------------
 ## **UML Design**
 ---------------------------------
-- accountId : int(private) -
+- accountId : int (private) -
 - customerName : string (private) -
 - balance : decimal (private) -
 - transactions : List<string> (private) -
