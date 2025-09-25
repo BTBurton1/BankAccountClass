@@ -1,0 +1,14 @@
+C:\Users\bilal\Downloads\BankProgram\BankCode\bin\Debug\net9.0\BankCode.exe
+C:\Users\bilal\Downloads\BankProgram\BankCode\bin\Debug\net9.0\BankCode.deps.json
+C:\Users\bilal\Downloads\BankProgram\BankCode\bin\Debug\net9.0\BankCode.runtimeconfig.json
+C:\Users\bilal\Downloads\BankProgram\BankCode\bin\Debug\net9.0\BankCode.dll
+C:\Users\bilal\Downloads\BankProgram\BankCode\bin\Debug\net9.0\BankCode.pdb
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\BankCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\BankCode.AssemblyInfoInputs.cache
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\BankCode.AssemblyInfo.cs
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\BankCode.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\BankCode.dll
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\refint\BankCode.dll
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\BankCode.pdb
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\BankCode.genruntimeconfig.cache
+C:\Users\bilal\Downloads\BankProgram\BankCode\obj\Debug\net9.0\ref\BankCode.dll
