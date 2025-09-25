@@ -3,20 +3,20 @@
 ---------------------------------
 ## **UML Design**
 ---------------------------------
-- accountId : int
-- customerName : string
-- balance : decimal
-- transactions : List<string>
+- accountId : int(private) -
+- customerName : string (private) -
+- balance : decimal (private) -
+- transactions : List<string> (private) -
 ---------------------------------
-+ AccountId : int { get; }
-+ CustomerName : string { get; }
-+ Balance : decimal { get; }
-+ Transactions : List<string> { get; }
++ AccountId : int { get; } (public) +
++ CustomerName : string { get; } (public) +
++ Balance : decimal { get; } (public) +
++ Transactions : List<string> { get; } (public) +
 ---------------------------------
-+ BankAccount(customerName : string, initialBalance : decimal)
-+ Deposit(amount : decimal) : void
-+ Withdraw(amount : decimal) : void
-+ DisplayAccountInfo() : void
++ BankAccount(customerName : string, initialBalance : decimal) (public) +
++ Deposit(amount : decimal) : void (public) +
++ Withdraw(amount : decimal) : void (public) +
++ DisplayAccountInfo() : void (public) +
 
 ------
 
